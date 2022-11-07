@@ -16,4 +16,4 @@ O objetivo era contruir um simples card contendo informações para uma suposta 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Deploy :rocket:
-[Clique aqui](natalsinglepricegrid.surge.sh)
+https://natalsinglepricegrid.surge.sh/
